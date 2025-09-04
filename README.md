@@ -1,0 +1,1 @@
+# correcci-n_parciales_comDigitales
